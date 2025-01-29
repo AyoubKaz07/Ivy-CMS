@@ -1,8 +1,7 @@
 # Ivy-CMS
 
 
-Count-Min Sketch in C++, also tested with gtest
-The class could be used for a query optimizer (maybe)
+Count-Min Sketch in C++
 
 You can modify the test file ```ivy_cms_test.cpp```, and try it out (although the link below has a good visual demo).
 
